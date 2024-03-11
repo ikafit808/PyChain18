@@ -15,3 +15,10 @@ You’ll make the following updates to the provided Python file for this Challen
 - Create additional user input areas in the Streamlit application. These input areas will collect the relevant information for each financial record that you’ll store in the PyChain ledger.
 
 - Test your completed PyChain ledger.
+
+## Test the PyChain Ledger by Storing Records
+
+<img width="725" alt="Screenshot 2024-03-11 at 12 05 01 PM" src="https://github.com/ikafit808/PyChain18/assets/142754993/2c203e68-e9b0-4ce4-8d51-67fd11ef481b">
+
+<img width="276" alt="Screenshot 2024-03-11 at 12 05 56 PM" src="https://github.com/ikafit808/PyChain18/assets/142754993/b4cbeed0-a331-447b-aa55-42a7c6578ae0">
+
